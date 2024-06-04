@@ -1,5 +1,11 @@
 # permissionless
 
+## 0.1.31
+
+### Patch Changes
+
+- c1bf8d72f5492e275bc44544c391cd9fc1e53b62: Added default simple account factory address
+
 ## 0.1.30
 
 ### Patch Changes
